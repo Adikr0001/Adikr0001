@@ -1,56 +1,88 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=500&height=40&lines=Hi+👋+I'm+Aditya+Kumar;Aspiring+Software+Engineer;DSA+•+Full+Stack+•+Agentic+AI;GDG+Core+Member+%7C+UI%2FUX+Winner;Building+Real+World+Projects" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/images/5291ed709e29d9401915bb07ce2e5c87/tenor.gif?itemid=13716448"  />
+# 💫 About Me
 
-###
+- 🎓 Computer Science Student  
+- 💻 Aspiring Software Engineer (SDE Roles)  
+- 🧠 Strong interest in **Data Structures & Problem Solving**  
+- 🤖 Exploring **Generative AI & Agentic Systems**  
+- 🎨 Passionate about **UI/UX Design**  
+- 🚀 Core Member at **Google Developers Group (GDG BIT)**  
+- 🎤 Worked with **TEDxBIT Design & Media Team**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://toppng.com/uploads/preview/github-logo-no-background-11659780053kfswou6xts.png" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-</div>
+---
 
-###
+# 🖥️ Technical Skills
 
-<div align="left">
-  <a href="https://www.instagram.com/adityakr.0001/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/adityakumar0001." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="adityalsarai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
 
-###
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,nodejs,postgres,git,docker,figma,postman" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Agentic AI Financial Analyst  
+AI system that performs financial data analysis, generates insights, charts and automated reports.
+
+### 📦 Product Catalog System (Java + SQLite)  
+Desktop based application to manage products with database integration and CRUD operations.
+
+### 🌐 Full Stack Web Application  
+Authentication system, dashboard UI, REST APIs and database connectivity.
+
+### 🎨 UI/UX Case Studies  
+Award winning design solutions — **Winner at GDG UI/UX Competition**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adikr0001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Winner — GDG UI/UX Competition  
+- ⭐ Core Member — Google Developers Group BIT  
+- ⚡ Organized 24 Hour Hackathon **“Ambition”**  
+- 🎬 Design & Media Team — TEDxBIT  
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced DSA for LeetCode Contests  
+- Backend Development & System Design Basics  
+- AI Agents + LLM Orchestration  
+- Scalable Web Architecture  
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="YOUR_GITHUB"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Adikr0001&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
