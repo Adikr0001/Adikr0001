@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=500&height=40&lines=Hi+👋+I'm+Aditya+Kumar;Aspiring+Software+Engineer;DSA+•+Full+Stack+•+Agentic+AI;GDG+Core+Member+%7C+UI%2FUX+Winner;Building+Real+World+Projects" />
 </p>
 
+<p align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200"/>
+</p>
+
 ---
 
 # 💫 About Me
@@ -19,9 +23,7 @@
 # 🖥️ Technical Skills
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,nodejs,postgres,git,docker,figma,postman" />
-
 </p>
 
 ---
@@ -76,8 +78,8 @@ Award winning design solutions — **Winner at GDG UI/UX Competition**
 # 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:aditya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://github.com/Adikr0001"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
