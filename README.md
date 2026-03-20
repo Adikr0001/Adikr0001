@@ -76,9 +76,9 @@ Award winning design solutions — **Winner at GDG UI/UX Competition**
 # 📫 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="YOUR_GITHUB"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:aditya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/Adikr0001"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
