@@ -181,13 +181,14 @@ An AI application for financial data analysis, insights, visualizations, and rep
 
 </div>
 
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub trophies"/>
+[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -197,7 +198,7 @@ An AI application for financial data analysis, insights, visualizations, and rep
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -207,7 +208,7 @@ An AI application for financial data analysis, insights, visualizations, and rep
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
