@@ -1,94 +1,111 @@
- <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=220&section=header&text=ADITYA%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20SECURITY&descAlignY=56&descSize=15" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=210&section=header&text=ADITYA%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20SECURITY&descAlignY=56&descSize=15" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Problem+Solver;Building+AI+Security+Tools;Exploring+Agentic+AI+%26+GenAI;Java+%7C+Python+%7C+Backend+Engineering;Learn+%E2%80%A2+Build+%E2%80%A2+Secure" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/Adikr0001">
-<img src="https://komarev.com/ghpvc/?username=Adikr0001&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
 <a href="https://github.com/Adikr0001?tab=followers">
-<img src="https://img.shields.io/github/followers/Adikr0001?style=for-the-badge&color=7B2FF7&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Adikr0001?style=for-the-badge&color=7B2FF7&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/Adikr0001?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Adikr0001">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 💻 Terminal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%24+whoami;Aditya+Kumar+%7C+Software+Engineer;%24+cat+focus.txt;AI+Security+%7C+GenAI+%7C+Backend;%24+ls+projects%2F; Aegis%2F+++JavaVuln%2F+++LLM-Security%2F;%24+echo+%22Building.+Learning.+Shipping.%22" alt="Animated terminal"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ```python
 class AdityaKumar:
     role = "Software Engineer"
-    focus = ["Backend Engineering", "AI Security", "GenAI"]
     languages = ["Java", "Python", "JavaScript", "C"]
+
     interests = [
         "Data Structures & Algorithms",
-        "Agentic AI",
-        "Vulnerability Assessment",
-        "System Design"
+        "Backend Engineering",
+        "Generative AI",
+        "Agentic Systems",
+        "AI Security"
     ]
 
     currently_building = "Aegis — AI Security Platform"
-    community = ["GDG BIT", "TEDxBIT"]
+
+    community = [
+        "GDG BIT Core Member",
+        "TEDxBIT Design & Media"
+    ]
 
     def mission(self):
         return "Build useful, reliable and secure software."
 ```
 
-- 🛡️ Developing security tooling for AI components and LLM applications.
-- ⚙️ Exploring backend architecture, APIs, and scalable systems.
-- 🤖 Building with Generative AI, LLMs, and agentic workflows.
-- 🧠 Practicing DSA and strengthening core engineering fundamentals.
-- 🎨 Interested in UI/UX, visual design, and developer experience.
+- 🛡️ Developing security tools for AI components and LLM applications.
+- ⚙️ Exploring backend engineering, APIs, databases, and scalable systems.
+- 🤖 Working with Generative AI, LLMs, and agentic workflows.
+- 🧠 Improving problem-solving and DSA fundamentals.
+- 🎨 Interested in UI/UX and developer experience.
 - 🚀 Core Member — Google Developer Group, BIT.
 - 🎬 Design and Media Team — TEDxBIT.
 - ⚡ Helped organize the 24-hour Ambition hackathon.
 
 ---
 
-## 🧰 Tech Arsenal
-
-<div align="center">
+## 🧰 Tech Stack
 
 ### Languages
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" alt="Programming languages"/>
+</p>
 
-### Backend & Web
+### Backend & Web Development
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs,html,css&theme=dark" alt="Backend and web development"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs,html,css&theme=dark" alt="Backend and web technologies"/>
+</p>
 
 ### Databases & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,postman,figma&theme=dark" alt="Databases and developer tools"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,postman,figma&theme=dark" alt="Databases and tools"/>
+</p>
 
 ### AI & Security
 
+<p align="center">
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/LLM_Security-00A6A6?style=for-the-badge" alt="LLM security"/>
 <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/AI_Agents-7B2FF7?style=for-the-badge" alt="AI agents"/>
-
-</div>
+</p>
 
 ---
 
-## 🚀 Featured Engineering
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -98,7 +115,7 @@ class AdityaKumar:
 
 **AI Security Platform**
 
-Evidence normalization, telemetry correlation, security findings, and attack-path analysis.
+Security investigation focused on evidence normalization, event correlation, security findings, and attack-path analysis.
 
 `Python` `FastAPI` `Security`
 
@@ -109,7 +126,7 @@ Evidence normalization, telemetry correlation, security findings, and attack-pat
 
 **AI Component Vulnerability Assessment**
 
-Discover AI/ML dependencies in Java projects and map components to known vulnerabilities.
+Discover AI/ML dependencies in Java projects and assess components against known vulnerabilities.
 
 `Java` `Maven` `Gradle`
 
@@ -122,7 +139,7 @@ Discover AI/ML dependencies in Java projects and map components to known vulnera
 
 **Automated LLM Red Teaming**
 
-Evaluate prompt injection, jailbreaks, and adversarial inputs with security scoring and reports.
+Evaluate prompt injection, jailbreaks, and adversarial inputs with risk scoring and security reports.
 
 `Python` `FastAPI` `React` `TypeScript`
 
@@ -133,7 +150,7 @@ Evaluate prompt injection, jailbreaks, and adversarial inputs with security scor
 
 **AI-Powered Financial Analysis**
 
-A project focused on financial data analysis, insights, visualizations, and report generation.
+Analyze financial data, generate insights, create visualizations, and produce reports.
 
 `Python` `AI` `Data Analysis`
 
@@ -144,7 +161,7 @@ A project focused on financial data analysis, insights, visualizations, and repo
 <div align="center">
 
 <a href="https://github.com/Adikr0001?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all repositories"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View repositories"/>
 </a>
 
 </div>
@@ -156,28 +173,23 @@ A project focused on financial data analysis, insights, visualizations, and repo
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikr0001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
 </div>
-
-- 🥇 Winner — GDG UI/UX Competition.
-- ⭐ Core Member — Google Developer Group, BIT.
-- ⚡ Helped organize the 24-hour Ambition hackathon.
-- 🎬 Design and media contributor — TEDxBIT.
 
 ---
 
@@ -201,23 +213,28 @@ A project focused on financial data analysis, insights, visualizations, and repo
 
 ---
 
+## 🏅 Achievements
+
+- 🥇 Winner — GDG UI/UX Competition.
+- ⭐ Core Member — Google Developer Group, BIT.
+- ⚡ Helped organize the 24-hour Ambition hackathon.
+- 🎬 Design and media contributor — TEDxBIT.
+
+---
+
 ## 🎯 Current Focus
 
-<div align="center">
-
-| Focus | Goal |
-|:---|:---|
+| Area | Goal |
+|---|---|
 | 🧠 DSA | Improve problem-solving and coding efficiency |
 | ⚙️ Backend | Build reliable APIs and understand system design |
 | 🤖 AI Engineering | Develop practical LLM and agentic applications |
 | 🛡️ AI Security | Improve component discovery and vulnerability assessment |
 | 🌐 Open Source | Contribute code, documentation, and useful tooling |
 
-</div>
-
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
