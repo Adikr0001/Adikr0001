@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%24+whoami;Aditya+Kumar+%7C+Software+Engineer;%24+cat+focus.txt;AI+Security+%7C+GenAI+%7C+Backend;%24+ls+projects%2F; Aegis%2F+++JavaVuln%2F+++LLM-Security%2F;%24+echo+%22Building.+Learning.+Shipping.%22" alt="Animated terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%24+whoami;Aditya+Kumar+%7C+Software+Engineer;%24+cat+focus.txt;AI+Security+%7C+GenAI+%7C+Backend;%24+ls+projects%2F;Aegis%2F+++JavaVuln%2F+++LLM-Security%2F;%24+echo+%22Building.+Learning.+Shipping.%22" alt="Animated terminal introduction"/>
 
 </div>
 
@@ -76,25 +76,25 @@ class AdityaKumar:
 
 ## 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" alt="Programming languages"/>
 </p>
 
-### Backend & Web Development
+### 🌐 Backend & Web Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs,html,css&theme=dark" alt="Backend and web technologies"/>
 </p>
 
-### Databases & Developer Tools
+### 🗄️ Databases & Developer Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,postman,figma&theme=dark" alt="Databases and tools"/>
 </p>
 
-### AI & Security
+### 🤖 AI & Security
 
 <p align="center">
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
@@ -150,7 +150,7 @@ Evaluate prompt injection, jailbreaks, and adversarial inputs with risk scoring 
 
 **AI-Powered Financial Analysis**
 
-Analyze financial data, generate insights, create visualizations, and produce reports.
+An AI application for financial data analysis, insights, visualizations, and report generation.
 
 `Python` `AI` `Data Analysis`
 
@@ -177,7 +177,7 @@ Analyze financial data, generate insights, create visualizations, and produce re
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -187,7 +187,7 @@ Analyze financial data, generate insights, create visualizations, and produce re
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
 </div>
 
@@ -197,7 +197,7 @@ Analyze financial data, generate insights, create visualizations, and produce re
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -207,7 +207,7 @@ Analyze financial data, generate insights, create visualizations, and produce re
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -234,7 +234,7 @@ Analyze financial data, generate insights, create visualizations, and produce re
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
