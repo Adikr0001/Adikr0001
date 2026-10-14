@@ -184,31 +184,15 @@ An AI application for financial data analysis, insights, visualizations, and rep
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Contribution Motion Graphics
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00F7FF&height=3&section=header" alt="Animated neon divider"/>
 
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Every+commit+is+progress.;Build.+Learn.+Ship.;Turning+ideas+into+software." alt="Animated developer motto"/>
 
 </div>
 
