@@ -1,234 +1,214 @@
-\<!--
-&#x20; Aditya Kumar | GitHub Profile README
-&#x20; Repository: [https://github.com/Adikr0001/Adikr0001](https://github.com/Adikr0001/Adikr0001)
-\-->
+ <div align="center">
 
-\<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=210&section=header&text=Aditya%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Security&descAlignY=57&descSize=18" />
 
-\<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;DSA+%7C+Full+Stack+%7C+Agentic+AI;Building+AI+Security+Tools;GDG+BIT+Core+Member;Turning+Ideas+Into+Real+Projects" alt="Typing animation"/>
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aditya%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Security%20%7C%20GenAI&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=200\&section=header\&text=Aditya%20Kumar\&fontSize=55\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20%7C%20AI%20Security%20%7C%20GenAI\&descAlignY=55\&descSize=18)" />
+<br/>
 
-\<!-- Typing Animation -->
+<a href="https://github.com/Adikr0001">
+<img src="https://komarev.com/ghpvc/?username=Adikr0001&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/Adikr0001?tab=followers">
+<img src="https://img.shields.io/github/followers/Adikr0001?style=for-the-badge&color=7B2FF7&label=FOLLOWERS" alt="Followers"/>
+</a>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+%F0%9F%A4%96;Exploring+AI+Security+%26+Agentic+AI+%F0%9F%9B%A1%EF%B8%8F;Backend+Engineering+%7C+Java+%7C+Python;Turning+ideas+into+working+software+%E2%9A%A1](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=900\&color=36BCF7\&center=true\&vCenter=true\&width=750\&lines=Building+intelligent+systems+%F0%9F%A4%96;Exploring+AI+Security+%26+Agentic+AI+%F0%9F%9B%A1%EF%B8%8F;Backend+Engineering+%7C+Java+%7C+Python;Turning+ideas+into+working+software+%E2%9A%A1)" alt="Typing SVG" />
-
-\<br/>
-
-\<a href="[https://github.com/Adikr0001](https://github.com/Adikr0001)">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=Adikr0001&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=Adikr0001\&label=PROFILE%20VIEWS\&color=0e75b6\&style=for-the-badge)" alt="Profile views"/>
-\</a>
-\<a href="[https://github.com/Adikr0001?tab=followers](https://github.com/Adikr0001?tab=followers)">
-&#x20; \<img src="[https://img.shields.io/github/followers/Adikr0001?label=Followers&style=for-the-badge&color=blue](https://img.shields.io/github/followers/Adikr0001?label=Followers\&style=for-the-badge\&color=blue)" alt="GitHub followers"/>
-\</a>
-\<a href="[https://github.com/Adikr0001?tab=repositories](https://github.com/Adikr0001?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge\&logo=github)" alt="Repositories"/>
-\</a>
-
-\</div>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Aditya Kumar"
-        self.role = "Software Engineer"
-        self.focus = [
-            "AI Security",
-            "Generative AI",
-            "Backend Engineering",
-            "Vulnerability Assessment"
-        ]
-        self.languages = ["Python", "Java"]
-        self.currently_building = "Aegis — AI Security Platform"
-        self.motto = "Learn. Build. Secure. Repeat."
+<img align="right" width="180" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Developer animation"/>
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
+- 🎓 Computer Science Engineering graduate / student profile.
+- 💻 Software engineering, backend development, and problem-solving.
+- 🧠 Practicing DSA and strengthening core computer science concepts.
+- 🤖 Exploring Generative AI, LLMs, and Agentic Systems.
+- 🛡️ Working on AI security and vulnerability assessment tooling.
+- 🎨 Passionate about UI/UX and creative technology.
+- 🚀 Core Member — Google Developer Group, BIT.
+- 🎬 Design and media contributor — TEDxBIT.
+- ⚡ Helped organize the 24-hour Ambition hackathon.
 
-me = Developer()
-me.say_hi()
-```
+<br clear="right"/>
 
-- 🛡️ Working at the intersection of **AI and cybersecurity**.
-- 🤖 Exploring GenAI, LLM security, AI agents, and intelligent automation.
-- ⚙️ Building backend services, security assessment tools, and practical software systems.
-- 🌱 Continuously improving my problem-solving and software engineering skills.
-- 🎯 Interested in building reliable, scalable, and secure products.
+---
+
+## 🖥️ Tech Stack
+
+### Languages & Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,spring,fastapi&theme=dark" alt="Languages and development"/>
+</p>
+
+### Databases, Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker,linux,figma,postman,vscode&theme=dark" alt="Tools and platforms"/>
+</p>
+
+### AI & Security
+
+<p align="center">
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-7B2FF7?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/LLM%20Security-00A6A6?style=for-the-badge" alt="LLM security"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ Aegis
+### 🛡️ Aegis — AI Security Platform
 
-**AI Security Platform**
-
-A security investigation platform focused on evidence normalization, event correlation, security findings, and attack-path analysis.
+Security investigation and attack-path analysis with evidence normalization, event correlation, and security findings.
 
 **Tech:** Python · FastAPI · Security Engineering
 
-\<a href="[https://github.com/Adikr0001?tab=repositories](https://github.com/Adikr0001?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)" alt="View Aegis project"/>
-\</a>
-
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🔍 JavaVuln
 
-**AI Component Vulnerability Assessment**
+AI/ML component discovery and vulnerability assessment for Java projects, using dependency analysis and component detection.
 
-A framework for discovering AI/ML components in Java projects and assessing dependency vulnerabilities using multiple detection strategies.
+**Tech:** Java · Maven · Gradle
 
-**Tech:** Java · Maven · Gradle · Vulnerability Assessment
-
-\<a href="[https://github.com/Adikr0001?tab=repositories](https://github.com/Adikr0001?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)" alt="View JavaVuln project"/>
-\</a>
-
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 LLM Vulnerability Assessment
 
-**LLM Red-Team Testing Framework**
+A framework for testing LLMs against prompt injection, jailbreaks, and adversarial inputs, with risk scoring and reporting.
 
-A framework for evaluating language models against prompt injection, jailbreaks, and adversarial inputs, with security scoring and reports.
+**Tech:** Python · FastAPI · React · TypeScript
 
-**Tech:** Python · FastAPI · React · TypeScript · LLM Security
+</td>
+<td width="50%" valign="top">
 
-\<a href="[https://github.com/Adikr0001?tab=repositories](https://github.com/Adikr0001?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)" alt="View LLM security project"/>
-\</a>
+### 💰 Agentic AI Financial Analyst
 
-\</td>
-\<td width="50%" valign="top">
+An AI application concept for analyzing financial data, generating insights, visualizations, and automated reports.
 
-### 🧠 GenAI & Backend Projects
+**Tech:** Python · Generative AI · Data Analysis
 
-**Applied AI and Software Engineering**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Building practical applications with APIs, databases, LLM integrations, and backend services.
+### 📦 Product Catalog System
 
-**Tech:** Python · Java · Spring Boot · PostgreSQL · REST APIs
+A desktop-oriented product management application with database integration and CRUD operations.
 
-\<a href="[https://github.com/Adikr0001?tab=repositories](https://github.com/Adikr0001?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge\&logo=github)" alt="Explore projects"/>
-\</a>
+**Tech:** Java · SQLite
 
-\</td>
-\</tr>
-\</table>
+</td>
+<td width="50%" valign="top">
 
----
+### 🎨 UI/UX Case Studies
 
-## 🛠️ Tech Stack & Tools
+Design explorations focused on user experience, visual hierarchy, and usable digital products.
 
-### 💻 Programming Languages
+**Highlight:** GDG UI/UX Competition Winner
 
-\<p align="left">
-\<img src="[https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark](https://skillicons.dev/icons?i=python,java,c,js,ts\&theme=dark)" alt="Programming languages"/>
-\</p>
-
-### 🌐 Backend & Web Development
-
-\<p align="left">
-\<img src="[https://skillicons.dev/icons?i=spring,fastapi,react,html,css&theme=dark](https://skillicons.dev/icons?i=spring,fastapi,react,html,css\&theme=dark)" alt="Backend and web technologies"/>
-\</p>
-
-### 🗄️ Databases & Infrastructure
-
-\<p align="left">
-\<img src="[https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,postman&theme=dark](https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,postman\&theme=dark)" alt="Databases and development tools"/>
-\</p>
-
-### 🤖 AI, GenAI & Security
-
-\<p align="left">
-\<img src="[https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)" alt="Generative AI"/>
-\<img src="[https://img.shields.io/badge/LLM%20Security-0A66C2?style=for-the-badge&logo=owasp&logoColor=white](https://img.shields.io/badge/LLM%20Security-0A66C2?style=for-the-badge\&logo=owasp\&logoColor=white)" alt="LLM security"/>
-\<img src="[https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge](https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge)" alt="Retrieval augmented generation"/>
-\<img src="[https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge](https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge)" alt="AI agents"/>
-\<img src="[https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)" alt="REST APIs"/>
-\</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Adikr0001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Adikr0001\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub statistics"/>
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikr0001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img width="70%" src="[https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Adikr0001\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Adikr0001&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-\</div>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1](https://github-profile-trophy.vercel.app/?username=Adikr0001\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)" alt="GitHub trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
-\</div>
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001\&bg_color=1a1b27\&color=70a5fd\&line=bf91f3\&point=38bdae\&area=true\&hide_border=true)" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adikr0001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
-\</div>
+</div>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 My Contribution Snake
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg)" alt="Animated GitHub contribution snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/Adikr0001/Adikr0001/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
 
-\</div>
+</div>
+
+---
+
+## 🏅 Achievements & Community
+
+- 🥇 Winner — GDG UI/UX Competition.
+- ⭐ Core Member — Google Developer Group, BIT.
+- ⚡ Helped organize the 24-hour Ambition hackathon.
+- 🎬 Design and media team — TEDxBIT.
+- 📸 Design, photography, and videography experience through student communities.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced DSA and problem-solving patterns.
+- Backend engineering with Java and Spring Boot.
+- System design and scalable application architecture.
+- AI agents, LLM orchestration, and retrieval-augmented generation.
+- AI asset discovery and vulnerability assessment.
 
 ---
 
 ## 🤝 Connect With Me
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/Adikr0001](https://github.com/Adikr0001)">
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-\</a>
-\<a href="YOUR_LINKEDIN_URL">
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-\</a>
-\<a href="mailto\:YOUR_EMAIL">
-\<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
-\</a>
+<a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Adikr0001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-### 💬 Open to interesting ideas, collaboration, and engineering challenges.
+**Building. Learning. Shipping. Securing.**
 
-*“Great software is not just built to work. It is built to last, scale, and stay secure.”*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=120&section=footer" />
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=120\&section=footer)" />
-
-\</div>
+</div>
