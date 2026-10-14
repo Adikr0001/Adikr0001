@@ -1,137 +1,162 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=210&section=header&text=Aditya%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Security&descAlignY=57&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=220&section=header&text=ADITYA%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20SECURITY&descAlignY=56&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;DSA+%7C+Full+Stack+%7C+Agentic+AI;Building+AI+Security+Tools;GDG+BIT+Core+Member;Turning+Ideas+Into+Real+Projects" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Problem+Solver;Building+AI+Security+Tools;Exploring+Agentic+AI+%26+GenAI;Java+%7C+Python+%7C+Backend+Engineering;Learn+%E2%80%A2+Build+%E2%80%A2+Secure" alt="Typing animation"/>
 
 <br/>
 
 <a href="https://github.com/Adikr0001">
-<img src="https://komarev.com/ghpvc/?username=Adikr0001&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Adikr0001&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <a href="https://github.com/Adikr0001?tab=followers">
 <img src="https://img.shields.io/github/followers/Adikr0001?style=for-the-badge&color=7B2FF7&label=FOLLOWERS" alt="Followers"/>
+</a>
+<a href="https://github.com/Adikr0001?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-Projects-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Adikr0001">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## `$ whoami`
 
-<img align="right" width="180" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Developer animation"/>
+```python
+class AdityaKumar:
+    role = "Software Engineer"
+    focus = ["Backend Engineering", "AI Security", "GenAI"]
+    languages = ["Java", "Python", "JavaScript", "C"]
+    interests = [
+        "Data Structures & Algorithms",
+        "Agentic AI",
+        "Vulnerability Assessment",
+        "System Design"
+    ]
 
-- 🎓 Computer Science Engineering graduate / student profile.
-- 💻 Software engineering, backend development, and problem-solving.
-- 🧠 Practicing DSA and strengthening core computer science concepts.
-- 🤖 Exploring Generative AI, LLMs, and Agentic Systems.
-- 🛡️ Working on AI security and vulnerability assessment tooling.
-- 🎨 Passionate about UI/UX and creative technology.
+    currently_building = "Aegis — AI Security Platform"
+    community = ["GDG BIT", "TEDxBIT"]
+
+    def mission(self):
+        return "Build useful, reliable and secure software."
+```
+
+- 🛡️ Developing security tooling for AI components and LLM applications.
+- ⚙️ Exploring backend architecture, APIs, and scalable systems.
+- 🤖 Building with Generative AI, LLMs, and agentic workflows.
+- 🧠 Practicing DSA and strengthening core engineering fundamentals.
+- 🎨 Interested in UI/UX, visual design, and developer experience.
 - 🚀 Core Member — Google Developer Group, BIT.
-- 🎬 Design and media contributor — TEDxBIT.
+- 🎬 Design and Media Team — TEDxBIT.
 - ⚡ Helped organize the 24-hour Ambition hackathon.
-
-<br clear="right"/>
 
 ---
 
-## 🖥️ Tech Stack
+## 🧰 Tech Arsenal
 
-### Languages & Development
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,spring,fastapi&theme=dark" alt="Languages and development"/>
-</p>
+### Languages
 
-### Databases, Tools & Platforms
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" alt="Programming languages"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker,linux,figma,postman,vscode&theme=dark" alt="Tools and platforms"/>
-</p>
+### Backend & Web
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs,html,css&theme=dark" alt="Backend and web development"/>
+
+### Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,postman,figma&theme=dark" alt="Databases and developer tools"/>
 
 ### AI & Security
 
-<p align="center">
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-7B2FF7?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/LLM%20Security-00A6A6?style=for-the-badge" alt="LLM security"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM_Security-00A6A6?style=for-the-badge" alt="LLM security"/>
 <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG"/>
-</p>
+<img src="https://img.shields.io/badge/AI_Agents-7B2FF7?style=for-the-badge" alt="AI agents"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Aegis — AI Security Platform
+### 🛡️ Aegis
 
-Security investigation and attack-path analysis with evidence normalization, event correlation, and security findings.
+**AI Security Platform**
 
-**Tech:** Python · FastAPI · Security Engineering
+Evidence normalization, telemetry correlation, security findings, and attack-path analysis.
+
+`Python` `FastAPI` `Security`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 JavaVuln
 
-AI/ML component discovery and vulnerability assessment for Java projects, using dependency analysis and component detection.
+**AI Component Vulnerability Assessment**
 
-**Tech:** Java · Maven · Gradle
+Discover AI/ML dependencies in Java projects and map components to known vulnerabilities.
+
+`Java` `Maven` `Gradle`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 LLM Vulnerability Assessment
+### 🤖 LLM Security Framework
 
-A framework for testing LLMs against prompt injection, jailbreaks, and adversarial inputs, with risk scoring and reporting.
+**Automated LLM Red Teaming**
 
-**Tech:** Python · FastAPI · React · TypeScript
+Evaluate prompt injection, jailbreaks, and adversarial inputs with security scoring and reports.
+
+`Python` `FastAPI` `React` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💰 Agentic AI Financial Analyst
 
-An AI application concept for analyzing financial data, generating insights, visualizations, and automated reports.
+**AI-Powered Financial Analysis**
 
-**Tech:** Python · Generative AI · Data Analysis
+A project focused on financial data analysis, insights, visualizations, and report generation.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Product Catalog System
-
-A desktop-oriented product management application with database integration and CRUD operations.
-
-**Tech:** Java · SQLite
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX Case Studies
-
-Design explorations focused on user experience, visual hierarchy, and usable digital products.
-
-**Highlight:** GDG UI/UX Competition Winner
+`Python` `AI` `Data Analysis`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/Adikr0001?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all repositories"/>
+</a>
+
+</div>
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikr0001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikr0001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikr0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
 
 <br/><br/>
 
@@ -141,13 +166,18 @@ Design explorations focused on user experience, visual hierarchy, and usable dig
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adikr0001&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
 </div>
+
+- 🥇 Winner — GDG UI/UX Competition.
+- ⭐ Core Member — Google Developer Group, BIT.
+- ⚡ Helped organize the 24-hour Ambition hackathon.
+- 🎬 Design and media contributor — TEDxBIT.
 
 ---
 
@@ -161,7 +191,7 @@ Design explorations focused on user experience, visual hierarchy, and usable dig
 
 ---
 
-## 🐍 My Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -171,44 +201,37 @@ Design explorations focused on user experience, visual hierarchy, and usable dig
 
 ---
 
-## 🏅 Achievements & Community
+## 🎯 Current Focus
 
-- 🥇 Winner — GDG UI/UX Competition.
-- ⭐ Core Member — Google Developer Group, BIT.
-- ⚡ Helped organize the 24-hour Ambition hackathon.
-- 🎬 Design and media team — TEDxBIT.
-- 📸 Design, photography, and videography experience through student communities.
+<div align="center">
 
----
+| Focus | Goal |
+|:---|:---|
+| 🧠 DSA | Improve problem-solving and coding efficiency |
+| ⚙️ Backend | Build reliable APIs and understand system design |
+| 🤖 AI Engineering | Develop practical LLM and agentic applications |
+| 🛡️ AI Security | Improve component discovery and vulnerability assessment |
+| 🌐 Open Source | Contribute code, documentation, and useful tooling |
 
-## 🌱 Currently Learning
-
-- Advanced DSA and problem-solving patterns.
-- Backend engineering with Java and Spring Boot.
-- System design and scalable application architecture.
-- AI agents, LLM orchestration, and retrieval-augmented generation.
-- AI asset discovery and vulnerability assessment.
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditya-kumar-17bb37291/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Adikr0001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**Building. Learning. Shipping. Securing.**
+*Building at the intersection of software, AI, and security.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=120&section=footer" />
 
 </div>
